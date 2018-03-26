@@ -1,0 +1,1 @@
+# spm-exhaustive-gen
